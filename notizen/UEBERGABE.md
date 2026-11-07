@@ -671,3 +671,4 @@
 - 06.11. (Laura): Minoxidil-Kapitel bleibt drin. Neue Rubrik „Rechtlich abklären“ in notizen/TODO.md (Gesundheitskapitel/HWG, Minoxidil + Ketoconazol, Produktbilder-Rechte, dazu INCI-Sammlung, Einschätzungen, Werbelinks, Rechtstexte). Folge 7 dort abgehakt.
 - 06.11. (Laura): E-Mail-Entwurf für Bildanfragen + Übersicht, wen man fragt (Konzerne, Eigenmarken, Partnerprogramme) in notizen/anfrage-produktbilder.md.
 - v455 (07.11., Laura): Test neues Startseiten-Foto (laura-startseite-neu.jpg, 1000×1340, grauer Studiohintergrund). Altes Foto bleibt als laura-startseite-web.jpg; zurück = eine Zeile in build-vorschau.py (Z. 147).
+- v456 (07.11., Laura): neues Startseiten-Foto mit wärmerem Hintergrund (grau → Sand ~#EBE3D8, nur Hintergrund, Person/Haare unverändert; Skript scratchpad warm.py). Grau-Original: laura-startseite-neu-grau.jpg, altes Foto: laura-startseite-web.jpg.
