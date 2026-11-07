@@ -673,3 +673,4 @@
 - v455 (07.11., Laura): Test neues Startseiten-Foto (laura-startseite-neu.jpg, 1000×1340, grauer Studiohintergrund). Altes Foto bleibt als laura-startseite-web.jpg; zurück = eine Zeile in build-vorschau.py (Z. 147).
 - v456 (07.11., Laura): neues Startseiten-Foto mit wärmerem Hintergrund (grau → Sand ~#EBE3D8, nur Hintergrund, Person/Haare unverändert; Skript scratchpad warm.py). Grau-Original: laura-startseite-neu-grau.jpg, altes Foto: laura-startseite-web.jpg.
 - v457 (07.11., Laura): Foto-Hintergrund Mittelding (warmes Hellgrau ~#E8E5E1). Varianten gespeichert: -neu-grau.jpg, -neu-warm.jpg, altes -web.jpg.
+- v458 (07.11., Laura): Siegel auf dem Startseiten-Foto wiegt sich ganz leicht (−7° ↔ −2,5°, 6 s, aus bei „Bewegung reduzieren“).

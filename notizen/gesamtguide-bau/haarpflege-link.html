@@ -318,6 +318,10 @@ html,body{overflow-x:clip}
 /* Siegel als Hintergrundbild (Glitzern auf Lauras Wunsch wieder entfernt, 22.10.) */
 .nadel.siegel{display:block;aspect-ratio:408/380;height:auto;background:var(--s) center/contain no-repeat}
 @media (max-width:759px){ .nadel.siegel{width:78px;top:-29px;left:calc(50% - 39px)} .hero:has(.nadel.siegel){padding-top:44px} }
+/* Siegel wiegt sich ganz leicht hin und her (Laura 07.11.) */
+.nadel.siegel{transform-origin:50% 40%;animation:siegelWiegen 6s ease-in-out infinite}
+@keyframes siegelWiegen{0%,100%{transform:rotate(-7deg)}50%{transform:rotate(-2.5deg)}}
+@media (prefers-reduced-motion:reduce){ .nadel.siegel{animation:none} }
 .kicker{font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);margin:0 0 10px}
 .hero h1{font-size:clamp(38px,6vw,64px);line-height:1}
 .hero p.lead{font-size:16px;margin:18px 0 0;max-width:52ch}
