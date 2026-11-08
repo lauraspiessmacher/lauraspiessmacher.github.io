@@ -674,3 +674,4 @@
 - v456 (07.11., Laura): neues Startseiten-Foto mit wärmerem Hintergrund (grau → Sand ~#EBE3D8, nur Hintergrund, Person/Haare unverändert; Skript scratchpad warm.py). Grau-Original: laura-startseite-neu-grau.jpg, altes Foto: laura-startseite-web.jpg.
 - v457 (07.11., Laura): Foto-Hintergrund Mittelding (warmes Hellgrau ~#E8E5E1). Varianten gespeichert: -neu-grau.jpg, -neu-warm.jpg, altes -web.jpg.
 - v458 (07.11., Laura): Siegel auf dem Startseiten-Foto wiegt sich ganz leicht (−7° ↔ −2,5°, 6 s, aus bei „Bewegung reduzieren“).
+- 08.11. (Laura): UMZUG ins private Projekt lauraspiessmacher/healthyhairclub (main, kompletter Verlauf, 760 Commits). Ab jetzt nur noch dorthin pushen: git push hhc HEAD:main. Das öffentliche Projekt lauraspiessmacher.github.io (früher Haar-Quiz) ist nur für die Link-Seite (Pages aus Zweig claude/elegant-hypatia-b00nat). Dort NICHTS mehr von dieser Arbeit hochladen.
