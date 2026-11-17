@@ -15,6 +15,12 @@
   - Rossmann-Eigenmarken (ca. 22)
 - Kleinere Marken (z. B. Gisou, OUAI, Olaplex, Color Wow, Bali Curls, NEQI, Dejan Garz, Jean&Len) einzeln über die PR- oder Presse-Adresse.
 
+## Wie viele Anfragen? (Stand 17.11.)
+Insgesamt rund **55 Anfragen**: 2 Drogerien + 8 Konzerne + ca. 28 einzelne Marken mit Kontakt + ca. 17 Marken, deren Kontakt noch fehlt.
+**Welle 1 (9 Anfragen, deckt rund 70 % aller Produkte):** L'Oréal (ca. 140), P&G inkl. OUAI (ca. 65), dm (ca. 55), Henkel (ca. 35), Kao (ca. 33), Kenvue/OGX (ca. 25), Rossmann (ca. 25), Wella Company (ca. 22), Beiersdorf (4, aber feste Presse-Adresse).
+**Welle 2:** die einzelnen Marken mit Kontakt. **Welle 3:** die noch offenen Marken (Kontakt über Instagram-Bio, PR-Pakete oder Agenturen).
+Produkte mit Amazon-Partnerlink können später auch Amazon-Bilder nutzen (über die Schnittstelle), dann braucht es dafür keine Anfrage.
+
 ## Kontakte (recherchiert 06.11.2026, nur was auf offiziellen Seiten stand)
 ✅ = ausdrücklich als Presse/PR angegeben · ⚪ = allgemeine Adresse, Anfrage wird meist weitergeleitet · 📝 = nur Formular/Portal
 
