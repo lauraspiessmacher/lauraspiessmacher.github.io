@@ -70,6 +70,15 @@ Produkte mit Amazon-Partnerlink können später auch Amazon-Bilder nutzen (über
 
 Tipp: Wo nur eine allgemeine Adresse oder ein Formular da ist, im Betreff „Presseanfrage“ schreiben und um Weiterleitung an PR bitten. Bei vielen Marken läuft PR über Agenturen; deren Kontakt steht oft unten in aktuellen Pressemitteilungen oder kommt mit PR-Paketen.
 
+## Nachrecherche 17.11. (ergänzt die Tabelle oben; vollständige Liste: bildanfragen-checkliste.pdf)
+- L'Oréal: eva.wuellner@loreal.com (Leitung Media Relations DACH, PM 2025)
+- P&G Haarpflege: laura.rodermond@omc.com (Agentur Golin, pgnewsroom.de/pressekontakte); Influencer: pg@ykone.com
+- Kao: Vanessa.John@kao.com (Corporate Communications EMEA, PM 2026); Oribe: pr@oribe.com
+- Wella Company: wella@wella.com (Impressum); ghd: info@ghdhair.de
+- MONDAY: mondayhaircare@seengroup.com · Moroccanoil: MoMedia@abmc-us.com · epres: epres@5wpr.com · The Ordinary: dj@deciem.com · Dyson: dyson-press@osk.de · Laifen: media@laifentech.com · Christophe Robin: melisa.itez@thehutgroup.com · Niche Beauty Lab: presse@cosnova.eu
+- Allgemein: NEQI info@neqi-hair.com (gleiche Firma wie Olaplex-Vertrieb New Flag) · Tangle Teezer support@tangleteezer.com · Living Proof questions@livingproof.com · Keune info@keune.com · neboa kontakt@neboa.pl · Dr. Scheller info@dr-scheller-cosmetics.com · Australian Bodycare info@australian-bodycare.com
+- Weiter ohne E-Mail: Coco & Eve, Maria Nila, Jean&Len, Bali Curls, Dreame, Shark, IDA WARG, Typebea (Agentur ZAK), Rhute, Remington, Lee Stafford (Agentur Beach House PR), MOVA, INKEY List, Aromatica, Elizavecca, fino
+
 ## Für Neuheiten (Laura 06.11.: Laden-Fotos nur als letzte Option)
 - Erlaubnis gleich **für alle Produkte der Marke, auch künftige** erbitten (steht in der E-Mail).
 - In den **Presseverteiler** der Marken aufnehmen lassen: Launch-Infos kommen dann meist mit Bildern, oft schon vor dem Verkaufsstart.
